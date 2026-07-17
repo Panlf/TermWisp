@@ -14,3 +14,7 @@
 	- 使用方式 `.\Validate-IDCard.ps1 -IDCard "xxxxxxx"`
 - 更换Java的配置地址 ( Change-Java-Version.ps1 )
 - 查找`pom.xml`文件中是否包含`ebean`字符串( FindStr.ps1 )
+
+### Python
+- 基于Funasr将video提取文本的python脚本 ( funasr_video_to_text.py )
+- 扫描Windows下面是否还有敏感数据 ( scan-excel-files.py )
